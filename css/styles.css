@@ -320,3 +320,10 @@ footer{
 	display: flex;
 	gap: 1rem;
 } */
+
+
+@media (max-width: 600px){
+	html{
+		font-size: 45%;
+	}
+}
